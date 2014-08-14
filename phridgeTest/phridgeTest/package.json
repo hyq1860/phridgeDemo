@@ -1,0 +1,10 @@
+{
+  "name": "phridgeTest",
+  "version": "0.0.0",
+  "description": "phridgeTest",
+  "main": "app.js",
+  "author": {
+    "name": "heyongqiang",
+    "email": ""
+  }
+}
